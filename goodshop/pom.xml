@@ -4,4 +4,7 @@
   <artifactId>goodshop</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>pom</packaging>
+  <modules>
+  	<module>goodshop-web</module>
+  </modules>
 </project>
